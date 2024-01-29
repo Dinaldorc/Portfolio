@@ -1,0 +1,23 @@
+body {
+    background-color: #04141f;
+    color:#0f773a;
+}
+
+strong {
+    color: #484d58
+}
+
+h1{
+    font-weight: bold;
+    font-size: 24pt;
+}
+
+p{
+    font-size: 14pt;
+}
+
+span{
+    color: #22D4FD;
+    border: 1px solid whitesmoke;
+    padding: 10px;
+}
